@@ -1,2 +1,2 @@
 # website
-A simple website :3
+A simple website template as of right now :3
