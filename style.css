@@ -130,4 +130,21 @@ body
 
 }
 
+.box2-5
+{
+    background-color:transparent;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    flex-wrap:wrap;
+    margin:auto;
 
+}
+
+.txt
+{
+    border: 3px solid crimson;
+    border-radius:25%;
+    margin-top:-13px;
+
+}
