@@ -7,16 +7,10 @@ body
 
 .logo
 {
-    display:block;
-    color:#F9FAF8;
-    font-size:24px;
-    text-align:left;
-    margin:auto;
-    margin-right:1260px;
-    border-radius:25px;
-    padding:10px;
-    margin-bottom:-50px;
-
+    padding: 0px;
+    margin-bottom: -100px;
+    margin-top: -67px;
+    margin-left: -134px;
 
 }
 
