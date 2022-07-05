@@ -158,3 +158,11 @@ body
 {
 
 }
+
+.box3 .txt
+{
+    font-size:18px;
+    font-style: italic;
+    text-align:center;
+    margin-bottom:-10px;
+}
