@@ -34,17 +34,23 @@ body
     font-size: 48px;
     color:#F9FAF8;
     font-weight:bolder;
-    margin-bottom:75px;
+    margin-bottom:56px;
     
 }
-
+.picture
+{
+    display:flex;
+    margin:auto;
+    margin-bottom:-201px;
+    border-radius:25%;
+}
 .pic
 {
     display:block;
     color:white;
     text-align:center;
-    background-color:grey;
-    width:210px;
+    background-color:black;
+    width:221px;
     margin:auto;
     padding:100px;
     margin-top:-50px;
